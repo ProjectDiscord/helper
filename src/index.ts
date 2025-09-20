@@ -1,1 +1,1 @@
-import { DiscordClient } from '@projectdiscord/core';
+import { BaseClient } from '@projectdiscord/core';
